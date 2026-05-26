@@ -89,7 +89,6 @@ Calculadora-Cientifica-com-Python/
 ├── calculadora\_completa.py
 ├── requirements.txt
 ├── README.md
-└── assets/
 
 ```
 
