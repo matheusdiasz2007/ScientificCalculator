@@ -158,3 +158,7 @@ https://github.com/matheusdiasz2007
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+---
+
+⭐ Se este projeto foi útil, considere dar uma estrela no repositório.
