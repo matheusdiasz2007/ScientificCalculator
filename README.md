@@ -1,4 +1,4 @@
-# 🧮 Calculadora Científica com Python
+<h1 align="center"> 🧮 Calculadora Científica com Python</h1> 
 
 <div align="center">
 
