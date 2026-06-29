@@ -147,10 +147,15 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Autor
 
-**Matheus Dias Pereira**
+### Matheus Dias Pereira
 
-GitHub:
-https://github.com/matheusdiasz2007
+🎓 Engineer Software
+
+🔗 GitHub: https://github.com/matheusdiasz2007
+
+🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
+
+⭐ Projeto desenvolvido para fins acadêmicos.
 
 ---
 
@@ -159,5 +164,3 @@ https://github.com/matheusdiasz2007
 Este projeto está sob a licença MIT.
 
 ---
-
-⭐ Se este projeto foi útil, considere dar uma estrela no repositório.
